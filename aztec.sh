@@ -82,7 +82,7 @@ echo "     3. 复制 HTTPS URL（如：https://eth-sepolia.g.alchemy.com/v2/你�
 echo ""
 echo "  🔹 共识客户端（CL）RPC 获取方法："
 echo "     1. 前往 https://drpc.org/"
-echo "     2. 创建 Sepolia API Key"
+echo "     2. 创建 Ethereum Beacon Chain Sepolia API Key"
 echo "     3. 复制 URL（如：https://lb.drpc.org/ogrpc?network=sepolia&dkey=你的KEY）"
 echo ""
 
